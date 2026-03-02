@@ -12,7 +12,7 @@ My background blends **financial analysis**, **business intelligence** and a gro
 - 📊 I believe good analysis is not just about numbers — it's about telling the right story to the right people
 - 🤖 Currently exploring **AI-driven analytics**, automation and data pipelines
 - 🌱 Self-taught in **SQL**, **Python** and **Power BI** — learning by building
-- 📬 Reach me at **diogomserino@hotmail.com**
+- 📬 Reach me at **diogomserino@gmail.com**
 
 ---
 
@@ -75,5 +75,5 @@ My background blends **financial analysis**, **business intelligence** and a gro
 
 ## 📬 Let's Connect
 
-- 📧 diogomserino@hotmail.com
+- 📧 diogomserino@gmail.com
 - 💼 Open to **Data Analyst**, **Business Intelligence** and **Financial Analytics** roles
